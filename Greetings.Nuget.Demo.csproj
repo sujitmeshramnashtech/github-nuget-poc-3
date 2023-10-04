@@ -5,6 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 	<RepositoryUrl>https://github.com/MohamedYassin-J/Greetings.Nuget.Demo.git</RepositoryUrl>
+	<PackageId>NugEdu.Greetings.Demo</PackageId>
   </PropertyGroup>
 
 </Project>
