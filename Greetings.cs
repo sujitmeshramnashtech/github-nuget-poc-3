@@ -11,6 +11,7 @@ public class Greetings
     public void SayGoodNight() => Console.WriteLine("Good Night From Greetings.Nuget.Demo Package");
 
     public void SayGoodAfternoon() => Console.WriteLine("Good Afternoon From Greetings.Nuget.Demo Package");
+    public void SayOK() => Console.WriteLine("OK");
 
     public void SayGreetings() => Console.WriteLine("Greetings From Greetings.Nuget.Demo Package");
 }
