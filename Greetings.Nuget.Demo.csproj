@@ -4,7 +4,7 @@
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-	<RepositoryUrl>https://github.com/MohamedYassin-J/Greetings.Nuget.Demo.git</RepositoryUrl>
+	<RepositoryUrl>https://github.com/sujitmeshramnashtech/github-nuget-poc.git</RepositoryUrl>
 	<PackageId>NugEdu.Greetings.Demo</PackageId>
   </PropertyGroup>
 
